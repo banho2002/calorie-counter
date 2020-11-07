@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+.foods{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.list{
+    padding: 10px 10px 10px 10px;
+}
+
+#add{
+    margin-top: 20px;
+    padding: 15px 40px 15px 40px;
+    background-color: #7e827f;
+    border-style: solid;
+    border-color: black;
+    border-radius: 6%;
+}

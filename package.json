@@ -1,0 +1,16 @@
+{
+  "name": "calorie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://banho2002.github.io/calorie-counter",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
